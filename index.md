@@ -18,6 +18,13 @@ classes: wide
 &nbsp;
  
 
+
+<h2> El vocabulario en construcción </h2>
+
+<p float="right" align="center">   
+<img src="/img/constrA" alt="Construction" width="200"/>
+</p>
+
   
   
   
