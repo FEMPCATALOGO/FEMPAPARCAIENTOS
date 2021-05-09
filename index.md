@@ -34,7 +34,7 @@ classes: wide
   
 | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-| Transporte | En proceso | *[Repositorio](https://github.com/opencitydata/transporte-aparcamiento)*  |  *[Generar issue](https://github.com/opencitydata/transporte-aparcamiento/issues)*   | Todo aparcamiento público, controlado o cerrado. Incluido el de residentes. |  |  |  |   |   |
+| Transporte | Inexistente | *[Repositorio](https://github.com/opencitydata/transporte-aparcamiento)*  |  *[Generar issue](https://github.com/opencitydata/transporte-aparcamiento/issues)*   | Todo aparcamiento público, controlado o cerrado. Incluido el de residentes. |  |  |  |   |   |
  
  
 
