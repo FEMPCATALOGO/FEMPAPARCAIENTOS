@@ -32,9 +32,9 @@ classes: wide
   
 
   
-| Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
-| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-| Transporte | Inexistente | *[Repositorio](https://github.com/opencitydata/transporte-aparcamiento)*  |  *[Generar issue](https://github.com/opencitydata/transporte-aparcamiento/issues)*   | Todo aparcamiento público, controlado o cerrado. Incluido el de residentes. |  |  |  |   |   |
+| Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
+| -------- | -------- | --------- | ---------- | --------------- | 
+| Transporte | Inexistente | *[Repositorio](https://github.com/opencitydata/transporte-aparcamiento)*  |  *[Generar issue](https://github.com/opencitydata/transporte-aparcamiento/issues)*   | Todo aparcamiento público, controlado o cerrado. Incluido el de residentes. |  
  
  
 
